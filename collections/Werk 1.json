@@ -9,6 +9,12 @@
             "title": "Annotatie 1",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://nvanderperren.github.io/annonatate/annotations/cd9bb24b-f3d8-45df-9595-188572b54b73.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
