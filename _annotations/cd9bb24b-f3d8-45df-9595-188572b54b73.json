@@ -1,0 +1,30 @@
+---
+canvas: "https://images-tst.meemoo.be/iiif/416sx7vq3v.jp2"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "een wapenschild",
+            "purpose": "describing",
+            "creator": {
+                "id": "nvanderperren",
+                "name": "nvanderperren"
+            },
+            "created": "2021-10-11T10:07:05.542Z",
+            "modified": "2021-10-11T10:07:15.088Z"
+        }
+    ],
+    "target": {
+        "source": "https://images-tst.meemoo.be/iiif/416sx7vq3v.jp2",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2307.597412109375,665.8685913085938,782.09228515625,800.0713500976562"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cd9bb24b-f3d8-45df-9595-188572b54b73.json"
+}
