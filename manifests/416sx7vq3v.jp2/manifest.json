@@ -1,8 +1,9 @@
 ---
+layout: none
 ---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://nvanderperren.github.io/annonatate/manifests/416sx7vq3v.jp2/manifest.json",
+  "@id": "{{ '/' | absolute_url }}manifests/416sx7vq3v.jp2/manifest.json",
   "@type": "sc:Manifest",
   "label": "Mensen",
   "metadata": [
@@ -25,7 +26,7 @@
           "width": 6215,
           "images": [
             {
-              "@id": "https://nvanderperren.github.io/annonatate/manifests/416sx7vq3v.jp2/annotation/1.json",
+              "@id": "{{ '/' | absolute_url }}manifests/416sx7vq3v.jp2/annotation/1.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -41,6 +42,13 @@
                 }
               },
               "on": "https://images-tst.meemoo.be/iiif/416sx7vq3v.jp2/info.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "{{ '/' | absolute_url }}annotations/416sx7vq3v-jp2-list.json",
+              "@type": "sc:AnnotationList",
+              "label": ""
             }
           ]
         }
