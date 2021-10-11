@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "WERK 1",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-multistoryboard annotationurl='https://nvanderperren.github.io/annonatate/annotations/b3c8407c-69da-436a-be6b-b102fefd3f4e.json'></iiif-multistoryboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
