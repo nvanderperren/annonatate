@@ -1,0 +1,29 @@
+---
+canvas: "https://images-tst.meemoo.be/iiif/416sx7vq3v.jp2"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "dit is iemand anders",
+            "purpose": "commenting",
+            "creator": {
+                "id": "nvanderperren",
+                "name": "nvanderperren"
+            },
+            "created": "2021-10-11T10:06:07.431Z",
+            "modified": "2021-10-11T10:06:09.707Z"
+        }
+    ],
+    "target": {
+        "source": "https://images-tst.meemoo.be/iiif/416sx7vq3v.jp2",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"1875.1300659179688\" cy=\"2577.5796508789062\" r=\"1061.3209567582414\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b3c8407c-69da-436a-be6b-b102fefd3f4e.json"
+}
