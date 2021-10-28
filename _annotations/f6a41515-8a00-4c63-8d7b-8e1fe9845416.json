@@ -1,0 +1,30 @@
+---
+canvas: "https://free.iiifhosting.com/iiif/e83976d19274100700ef24338c87ed491b937331eec66c655bf834fffcb011b0/full/full/0/default.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "een man",
+            "purpose": "commenting",
+            "creator": {
+                "id": "nvanderperren",
+                "name": "nvanderperren"
+            },
+            "created": "2021-10-28T13:06:13.420Z",
+            "modified": "2021-10-28T13:06:14.013Z"
+        }
+    ],
+    "target": {
+        "source": "https://free.iiifhosting.com/iiif/e83976d19274100700ef24338c87ed491b937331eec66c655bf834fffcb011b0/full/full/0/default.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:263.3943176269531,128.60470581054688,29.090911865234375,40"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f6a41515-8a00-4c63-8d7b-8e1fe9845416.json"
+}
