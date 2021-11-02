@@ -1,0 +1,34 @@
+---
+canvas: "http://15575bf6-6178-4b7d-9269-b41f5e0a2dee"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "mannengezicht",
+            "purpose": "commenting",
+            "creator": {
+                "id": "nvanderperren",
+                "name": "nvanderperren"
+            },
+            "created": "2021-11-02T14:07:52.700Z",
+            "modified": "2021-11-02T14:07:55.915Z"
+        }
+    ],
+    "target": {
+        "source": "http://15575bf6-6178-4b7d-9269-b41f5e0a2dee",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1520.84130859375,1974.55810546875,809.06103515625,1213.59130859375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://jsonstorage.net/api/items/3dbf692b-edc3-4f34-a65c-a17ed199c19e",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b0a6507a-5ccd-43b8-bcf3-fabdf678814f.json"
+}
