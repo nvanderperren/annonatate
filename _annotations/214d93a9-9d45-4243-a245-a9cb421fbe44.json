@@ -1,0 +1,33 @@
+---
+canvas: "http://28e1ca1a-5d1a-4239-b8b5-e18c0efae8cc"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "rare vorm",
+            "purpose": "commenting",
+            "creator": {
+                "id": "nvanderperren",
+                "name": "nvanderperren"
+            },
+            "created": "2021-11-02T15:58:38.311Z",
+            "modified": "2021-11-02T15:58:40.386Z"
+        }
+    ],
+    "target": {
+        "source": "http://28e1ca1a-5d1a-4239-b8b5-e18c0efae8cc",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"780.7066650390625,1923.1285400390625 2431.367431640625,2377.759765625 1773.9007568359375,3119.158203125 1885.81005859375,1657.34423828125 2347.435546875,2503.657470703125\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://jsonstorage.net/api/items/e502e4d0-a7cb-433b-895b-29afd2c2c382",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "214d93a9-9d45-4243-a245-a9cb421fbe44.json"
+}
