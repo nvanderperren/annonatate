@@ -1,0 +1,34 @@
+---
+canvas: "http://15575bf6-6178-4b7d-9269-b41f5e0a2dee"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "wapenschild",
+            "purpose": "commenting",
+            "creator": {
+                "id": "nvanderperren",
+                "name": "nvanderperren"
+            },
+            "created": "2021-11-03T14:38:03.371Z",
+            "modified": "2021-11-03T14:38:07.611Z"
+        }
+    ],
+    "target": {
+        "source": "http://15575bf6-6178-4b7d-9269-b41f5e0a2dee",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:2302.074462890625,653.951171875,782.09228515625,836.0296630859375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://jsonstorage.net/api/items/3dbf692b-edc3-4f34-a65c-a17ed199c19e",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "82bd2e29-509d-4e5f-af65-46351a6b6848.json"
+}
