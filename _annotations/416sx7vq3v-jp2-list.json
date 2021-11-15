@@ -1,9 +1,0 @@
----
-canvas_id: "https://images-tst.meemoo.be/iiif/416sx7vq3v.jp2/info.json"
----
-{% assign annotations = site.annotations | where: "canvas", page.canvas_id | sort: "order" | map: "content" %}
-{
-"@context": "http://iiif.io/api/presentation/2/context.json",
-"id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
-"type": "AnnotationPage",
-"items": [{{ annotations | join: ","}}] }
