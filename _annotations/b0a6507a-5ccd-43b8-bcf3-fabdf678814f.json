@@ -25,7 +25,7 @@ order: 1
             "value": "xywh=pixel:1520.84130859375,1974.55810546875,809.06103515625,1213.59130859375"
         },
         "dcterms:isPartOf": {
-            "id": "https://jsonstorage.net/api/items/3dbf692b-edc3-4f34-a65c-a17ed199c19e",
+            "id": "https://nvanderperren.github.io/iiif/maniefest.json",
             "type": "Manifest"
         }
     },
