@@ -9,10 +9,6 @@ order: 2
             "type": "TextualBody",
             "value": "dit is een tweede comment",
             "purpose": "commenting",
-            "creator": {
-                "id": "nvanderperren",
-                "name": "nvanderperren"
-            },
             "created": "2022-03-28T12:25:43.525Z",
             "modified": "2022-03-28T12:25:46.812Z"
         }
